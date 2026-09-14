@@ -16,19 +16,19 @@
 
 ---
 
-## 📌 สารบัญ (Table of Contents)
-- [📖 1. ข้อมูลรายวิชาเบื้องต้น (Course Information)](#-1-ข้อมูลรายวิชาเบื้องต้น-course-information)
-- [📂 2. โครงสร้าง Repository (Standard Course Layout)](#-2-โครงสร้าง-repository-standard-course-layout)
-- [📚 3. เนื้อหาและการบรรยาย (Lectures & Slides)](#-3-เนื้อหาและการบรรยาย-lectures--slides)
-- [💻 4. แบบฝึกหัดและการทดลองภาคปฏิบัติ (Labs & Assignments)](#-4-แบบฝึกหัดและการทดลองภาคปฏิบัติ-labs--assignments)
-- [🏆 5. โครงงานประจำรายวิชา (Course Projects)](#-5-โครงงานประจำรายวิชา-course-projects)
-- [📝 6. สรุปทบทวนและเตรียมสอบ (Exams Review)](#-6-สรุปทบทวนและเตรียมสอบ-exams-review)
-- [⚖️ 7. จริยธรรมทางวิชาการ (Academic Integrity Notice)](#-7-จริยธรรมทางวิชาการ-academic-integrity-notice)
-- [👨‍💻 8. ผู้จัดทำ (Author)](#-8-ผู้จัดทำ-author)
+## <img src="https://api.iconify.design/material-symbols:list-alt-outline.svg?color=%236366F1" width="20" height="20" align="center" /> สารบัญ (Table of Contents)
+- [<img src="https://api.iconify.design/material-symbols:menu-book-outline.svg?color=%230284C7" width="16" height="16" align="center" /> 1. ข้อมูลรายวิชาเบื้องต้น (Course Information)](#-1-ข้อมูลรายวิชาเบื้องต้น-course-information)
+- [<img src="https://api.iconify.design/material-symbols:folder-open-outline.svg?color=%23F59E0B" width="16" height="16" align="center" /> 2. โครงสร้าง Repository (Standard Course Layout)](#-2-โครงสร้าง-repository-standard-course-layout)
+- [<img src="https://api.iconify.design/material-symbols:school-outline.svg?color=%230284C7" width="16" height="16" align="center" /> 3. เนื้อหาและการบรรยาย (Lectures & Slides)](#-3-เนื้อหาและการบรรยาย-lectures--slides)
+- [<img src="https://api.iconify.design/material-symbols:terminal-outline.svg?color=%2310B981" width="16" height="16" align="center" /> 4. แบบฝึกหัดและการทดลองภาคปฏิบัติ (Labs & Assignments)](#-4-แบบฝึกหัดและการทดลองภาคปฏิบัติ-labs--assignments)
+- [<img src="https://api.iconify.design/material-symbols:trophy-outline.svg?color=%23F59E0B" width="16" height="16" align="center" /> 5. โครงงานประจำรายวิชา (Course Projects)](#-5-โครงงานประจำรายวิชา-course-projects)
+- [<img src="https://api.iconify.design/material-symbols:edit-note-outline.svg?color=%238B5CF6" width="16" height="16" align="center" /> 6. สรุปทบทวนและเตรียมสอบ (Exams Review)](#-6-สรุปทบทวนและเตรียมสอบ-exams-review)
+- [<img src="https://api.iconify.design/material-symbols:verified-user-outline.svg?color=%23EF4444" width="16" height="16" align="center" /> 7. จริยธรรมทางวิชาการ (Academic Integrity Notice)](#-7-จริยธรรมทางวิชาการ-academic-integrity-notice)
+- [<img src="https://api.iconify.design/material-symbols:person-outline.svg?color=%2306B6D4" width="16" height="16" align="center" /> 8. ผู้จัดทำ (Author)](#-8-ผู้จัดทำ-author)
 
 ---
 
-## 📖 1. ข้อมูลรายวิชาเบื้องต้น (Course Information)
+## <img src="https://api.iconify.design/material-symbols:menu-book-outline.svg?color=%230284C7" width="22" height="22" align="center" /> 1. ข้อมูลรายวิชาเบื้องต้น (Course Information)
 
 - **รหัสวิชา:** `1322203`
 - **ชื่อวิชาภาษาอังกฤษ:** Database Systems and Big Data
@@ -40,7 +40,7 @@
 
 ---
 
-## 📂 2. โครงสร้าง Repository (Standard Course Layout)
+## <img src="https://api.iconify.design/material-symbols:folder-open-outline.svg?color=%23F59E0B" width="22" height="22" align="center" /> 2. โครงสร้าง Repository (Standard Course Layout)
 
 ```text
 Course-1322203-Database-Systems-and-Big-Data-2025/
@@ -60,7 +60,7 @@ Course-1322203-Database-Systems-and-Big-Data-2025/
 
 ---
 
-## 📚 3. เนื้อหาและการบรรยาย (Lectures & Slides)
+## <img src="https://api.iconify.design/material-symbols:school-outline.svg?color=%230284C7" width="22" height="22" align="center" /> 3. เนื้อหาและการบรรยาย (Lectures & Slides)
 
 | หมวดเนื้อหา | หัวข้อการบรรยาย (Core Database Topics) | รายละเอียดเนื้อหา | สไลด์ / เอกสาร |
 | :---: | :--- | :--- | :---: |
@@ -72,7 +72,7 @@ Course-1322203-Database-Systems-and-Big-Data-2025/
 
 ---
 
-## 💻 4. แบบฝึกหัดและการทดลองภาคปฏิบัติ (Labs & Assignments)
+## <img src="https://api.iconify.design/material-symbols:terminal-outline.svg?color=%2310B981" width="22" height="22" align="center" /> 4. แบบฝึกหัดและการทดลองภาคปฏิบัติ (Labs & Assignments)
 
 | ลำดับงาน | หัวข้อแบบฝึกหัด (Lab / Assignment) | สาระสำคัญและเนื้อหาการปฏิบัติ | โฟลเดอร์งาน |
 | :---: | :--- | :--- | :---: |
@@ -81,7 +81,7 @@ Course-1322203-Database-Systems-and-Big-Data-2025/
 
 ---
 
-## 🏆 5. โครงงานประจำรายวิชา (Course Projects)
+## <img src="https://api.iconify.design/material-symbols:trophy-outline.svg?color=%23F59E0B" width="22" height="22" align="center" /> 5. โครงงานประจำรายวิชา (Course Projects)
 
 > โครงงานระบบฐานข้อมูลและซอฟต์แวร์ที่พัฒนาขึ้นในรายวิชา (เก็บอยู่ในโฟลเดอร์ `03_Projects/`)
 
@@ -96,14 +96,14 @@ Course-1322203-Database-Systems-and-Big-Data-2025/
 
 ---
 
-## 📝 6. สรุปทบทวนและเตรียมสอบ (Exams Review)
+## <img src="https://api.iconify.design/material-symbols:edit-note-outline.svg?color=%238B5CF6" width="22" height="22" align="center" /> 6. สรุปทบทวนและเตรียมสอบ (Exams Review)
 
 - [x] **สรุปทบทวนการสอบกลางภาค (Midterm Review):** [บันทึกสรุป Relational Model และ Normalization](04_Exams_Review/)
 - [x] **สรุปทบทวนการสอบปลายภาค (Final Review):** [บันทึกสรุป SQL, Indexing, Transactions และ Big Data](04_Exams_Review/)
 
 ---
 
-## ⚖️ 7. จริยธรรมทางวิชาการ (Academic Integrity Notice)
+## <img src="https://api.iconify.design/material-symbols:verified-user-outline.svg?color=%23EF4444" width="22" height="22" align="center" /> 7. จริยธรรมทางวิชาการ (Academic Integrity Notice)
 
 > [!NOTE]  
 > คลังนี้จัดทำขึ้นเพื่อเป็น **บันทึกการเรียนรู้ส่วนบุคคล (Personal Learning Archive)** และนำเสนอพัฒนาการทางวิชาการ (Academic Portfolio) เท่านั้น  
@@ -111,10 +111,10 @@ Course-1322203-Database-Systems-and-Big-Data-2025/
 
 ---
 
-## 👨‍💻 8. ผู้จัดทำ (Author)
+## <img src="https://api.iconify.design/material-symbols:person-outline.svg?color=%2306B6D4" width="22" height="22" align="center" /> 8. ผู้จัดทำ (Author)
 
 **Phuriphat Hemakul (PhuriphatTyPeZ3r0)**
-- 🎓 นักศึกษา สาขาวิศวกรรมคอมพิวเตอร์และปัญญาประดิษฐ์ (CAI)
-- 🏛️ สถาบันการจัดการปัญญาภิวัฒน์ (PIM)
-- 🐙 GitHub: [@PhuriphatTyPeZ3r0](https://github.com/PhuriphatTyPeZ3r0)
-- 🌐 Portfolio: [resume-phuriphat-hemakul.vercel.app](https://resume-phuriphat-hemakul.vercel.app)
+- <img src="https://api.iconify.design/material-symbols:school-outline.svg?color=%230284C7" width="16" height="16" align="center" /> นักศึกษา สาขาวิศวกรรมคอมพิวเตอร์และปัญญาประดิษฐ์ (CAI)
+- <img src="https://api.iconify.design/material-symbols:apartment-rounded.svg?color=%230284C7" width="16" height="16" align="center" /> สถาบันการจัดการปัญญาภิวัฒน์ (PIM)
+- <img src="https://api.iconify.design/simple-icons:github.svg?color=%23181717" width="16" height="16" align="center" /> GitHub: [@PhuriphatTyPeZ3r0](https://github.com/PhuriphatTyPeZ3r0)
+- <img src="https://api.iconify.design/material-symbols:language.svg?color=%233B82F6" width="16" height="16" align="center" /> Portfolio: [resume-phuriphat-hemakul.vercel.app](https://resume-phuriphat-hemakul.vercel.app)
