@@ -60,15 +60,20 @@ Course-1322203-Database-Systems-and-Big-Data-2025/
 
 ---
 
-## <img src="https://api.iconify.design/material-symbols:school-outline.svg?color=%230284C7" width="22" height="22" align="center" /> 3. เนื้อหาและการบรรยาย (Lectures & Slides)
+## <img src="https://api.iconify.design/material-symbols:school-outline.svg?color=%230284C7" width="22" height="22" align="center" /> 3. สรุปเนื้อหาและการบรรยายรายสัปดาห์ (Weekly Lecture Notes & MOCs)
 
-| หมวดเนื้อหา | หัวข้อการบรรยาย (Core Database Topics) | รายละเอียดเนื้อหา | สไลด์ / เอกสาร |
+| สัปดาห์ | หัวข้อการบรรยาย (Core Database Topics) | สาระสำคัญและเนื้อหาหลัก | โน้ตสรุป & แผนที่หัวข้อ |
 | :---: | :--- | :--- | :---: |
-| **Data Modeling** | **Relational Data Model & ER Diagrams** | สถาปัตยกรรม ANSI-SPARC, Entity-Relationship Modeling, Cardinality, Foreign Keys | [เอกสาร](01_Lectures/01_Docs/) |
-| **Relational Algebra** | **Formal Relational Operations** | Selection ($\sigma$), Projection ($\pi$), Cartesian Product ($\times$), Joins ($\bowtie$) | [เอกสาร](01_Lectures/01_Docs/) |
-| **Database Design** | **Functional Dependencies & Normalization** | การกำจัดความซ้ำซ้อนข้อมูล (Redundancy Elimination): 1NF, 2NF, 3NF, BCNF | [เอกสาร](01_Lectures/01_Docs/) |
-| **SQL Standards** | **DDL, DML & Advanced Queries** | Data Definition Language, Complex Queries, Subqueries, Aggregation, Views | [เอกสาร](01_Lectures/01_Docs/) |
-| **Big Data Systems** | **Big Data Foundations & Distributed Storage** | คุณลักษณะ 5Vs ของ Big Data, Data Warehousing, NoSQL, และ Distributed File Systems | [เอกสาร](01_Lectures/01_Docs/) |
+| **Week 1** | **Course Intro & Relational Model** | ความแตกต่าง Data vs Information, สถาปัตยกรรม DBMS, ตาราง (Tuples/Attributes), Keys, และ Relational Algebra ($\sigma, \pi, \bowtie$) | [เปิด MOC](01_Lectures/Week01_Intro_Relational_Model/Week01-MOC.md) |
+| **Week 2** | **Introduction to SQL (DDL & DML)** | ภาษามาตรฐาน SQL, DDL (`CREATE`, `ALTER`, `DROP`), DML (`SELECT`, `INSERT`, `UPDATE`, `DELETE`), `WHERE`, `LIKE`, `ORDER BY` | [เปิด MOC](01_Lectures/Week02_Basic_SQL/Week02-MOC.md) |
+| **Week 3** | **SQL Joins & Relationships** | การเชื่อมตารางด้วย `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, การจำลอง `FULL JOIN` ด้วย `UNION`, และ `Self Join` | [เปิด MOC](01_Lectures/Week03_SQL_Join/Week03-MOC.md) |
+| **Week 4** | **Aggregate Functions & GROUP BY** | การรวมกลุ่มคำนวณสถิติด้วย `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`, การจัดกลุ่ม `GROUP BY`, และการกรองผลรวมกลุ่มด้วย `HAVING` | [เปิด MOC](01_Lectures/Week04_Join_Aggregate/Week04-MOC.md) |
+| **Week 5** | **Subqueries & Advanced Queries** | คิวรีซ้อนคิวรี (Nested Query), Scalar & Multi-row Subqueries, `IN`, `EXISTS`, Correlated Subquery, และ Inline Views | [เปิด MOC](01_Lectures/Week05_SubQuery/Week05-MOC.md) |
+| **Week 6** | **Database Normalization** | ปัญหาความซ้ำซ้อนและ Anomalies (Insert, Delete, Update), ขั้นตอน 1NF, 2NF, 3NF, BCNF, และแนวคิด Denormalization | [เปิด MOC](01_Lectures/Week06_Normalization/Week06-MOC.md) |
+| **Week 7** | **ERD Design & String Functions** | วงจร DSDLC, การสร้างแบบจำลอง ERD, กฎ 7 ข้อการแปลง ERD เป็น Relational Schema, และการใช้ฟังก์ชัน `LEFT`, `RIGHT`, `SUBSTRING` | [เปิด MOC](01_Lectures/Week07_ERD_String_Functions/Week07-MOC.md) |
+| **Week 8** | **Database Practice & Case Study** | ฐานข้อมูลกรณีศึกษา `naruto.sql` (5 ตาราง), การเขียนคิวรีข้ามตารางระดับสูง, และการวิเคราะห์ Execution Plan ด้วย `EXPLAIN` | [เปิด MOC](01_Lectures/Week08_Database_Project/Week08-MOC.md) |
+| **Week 9** | **Big Data & NoSQL (MongoDB)** | คุณลักษณะ 5Vs ของ Big Data, การขยายระบบ Scale-out, NoSQL 4 ตระกูล, ทฤษฎีบท CAP Theorem, BSON, และคำสั่ง CRUD บน MongoDB | [เปิด MOC](01_Lectures/Week09_NoSQL_BigData/Week09-MOC.md) |
+| **Week 10** | **Transaction & NewSQL** | หน่วยงาน All-or-Nothing, 4 เสาหลัก ACID, คำสั่ง `COMMIT`/`ROLLBACK`, ระดับ Isolation Levels, และสถาปัตยกรรม NewSQL Distributed ACID | [เปิด MOC](01_Lectures/Week10_Transaction_NewSQL/Week10-MOC.md) |
 
 ---
 

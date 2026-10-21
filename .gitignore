@@ -4,3 +4,18 @@
 **/nbproject/private/
 *.class
 *.jar.bak
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# OS and System Files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Tool & Analysis Artifacts
+graphify-out/
+
